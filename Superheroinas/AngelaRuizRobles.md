@@ -29,5 +29,4 @@ ___
 
 
 ###Imagen
-[alt text](https://github.com/angelesrey/angelesrey.github.io/blob/main/EDC/angelaR.jpg "Angela Ruiz junto a la enciclopedia mecánica.")
-
+[alt text](https://github.com/angelesrey/angelesrey.github.io/blob/main/EDC/superHeroinas/Superheroinas/angelaR.jpg "Angela Ruiz junto a la enciclopedia mecánica")
