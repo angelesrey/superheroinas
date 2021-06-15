@@ -18,7 +18,7 @@ Es considerada la primera programadora de la historia.
 4.Existe un lenguaje de programación llamado Ada en su honor. computer
 
 ###LINK
-{Ver biografia](https://www.youtube.com/watch?v=bYCDVwyuVt4)
+[Ver biografia](https://www.youtube.com/watch?v=bYCDVwyuVt4)
 
 ###Imagen. 
 ![alt text](https://github.com/angelesrey/angelesrey.github.io/blob/main/EDC/superHeroinas/Superheroinas/adaL.jpg "Ada Lovelace fondo con formulas matematicas)
