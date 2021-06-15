@@ -21,4 +21,4 @@ Es considerada la primera programadora de la historia.
 [Ver biografia](https://www.youtube.com/watch?v=bYCDVwyuVt4)
 
 ###Imagen. 
-![alt text](https://github.com/angelesrey/angelesrey.github.io/blob/main/EDC/superHeroinas/Superheroinas/adaL.jpg "Ada Lovelace fondo con formulas matematicas)
+![alt text](https://github.com/angelesrey/superheroinas/blob/main/adaL.jpg "Ada Lovelace fondo con formulas matematicas")
