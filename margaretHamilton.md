@@ -1,24 +1,28 @@
-# Margaret Hamilton :blush:
+# Margaret Hamilton :rocket:
+Nació en Paoli, Indiana el 17 de agosto de 1937.
+**Estudios:**
+1. Estudio matematicas con diplomado en Filosofía
+2. Matemáticas abstractas
+ 
+ ###**Proyectos en los que participó:**
+ - Proyecto _Sage_ _Philco-Ford_ del laboratorio Lincoln del MIT, donde desarrollo el primer software para el primer ordenador que buscaba aeronaves desconocidas en el espacio aéreo norteamericano.
+ - Trabajo posteriormente en el laboratorio Charles Stark Draper del MIT que en ese momento trabajaban en el programa **Apolo**, fue encargada junto a su equipo de diseñar parte del software que hacia funcionar el Módulo de Mando y el Módulo Lunar.
+ - Gracias a su gran trabajo evito un fracaso del Apolo 11, minutos antes de que se produjera el alunizaje hubo un fallo pero gracias al software estaba diseñado para recuperar errores y priorizar funciones, asi evitó una sobrecarga en el sistema.
+ - Creo su empresa _Hamilton Technologies_
 
-#### Científica Computacional
-Es una _científica **computacional**_, **matemática e _ingeniera_** de ~~Software.~~ Fue directora de la División de Ingeniería de Software del Laboratorio de Instrumentación del MIT, donde con su equipo desarrolló el software de navegación "on-board" para el Programa Espacial Apolo.
+####**Premios y reconocimientos**
+1. Exceptional Space Act Award otorgado por la NASA en el 2003 
+2. Recibió la Medalla Presidencial de la Libertad que le fue entregada en el 2006.
 
-1. Ciencias de la Computación.
-2. Matemáticas.
-3. Ingeniería. 
 
-* Ciencias de la Computación.
-- Matemáticas.
-+ Ingeniería.
+
+
+
+
+
 
 ### Link
-[I'm an inline-style link](https://www.google.com)
+[Ver Biografía](https://eldiariofeminista.info/2020/08/21/margaret-hamilton-la-primera-ingeniera-de-software-de-la-nasa-que-hizo-posible-la-llegada-del-hombre-a-la-luna/)
 
-[Ver Biografía](https://es.wikipedia.org/wiki/Margaret_Hamilton_(cient%C3%ADfica))
-
-### Imagenes
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Empresa Coders")
-
-## Imagen de Margaret Hamilton
-![alt text](https://github.com/LedaHuerta/superHeroinas/blob/main/margaretH.gif "Margaret Hamilton con su codigo")
+### Imagen de Margaret Hamilton
+![alt text](https://github.com/angelesrey/superHeroinas/blob/main/margaretH.gif "Margaret Hamilton con su codigo")

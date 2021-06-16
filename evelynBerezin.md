@@ -31,4 +31,4 @@ Diseño uno de los primeros procesadores de texto, además de desarrollar la ide
 [Ver video](https://www.youtube.com/watch?v=zuHRc0JKaC4)
 
 ###Imagen
-![alt text](https://github.com/angelesrey/superheroinas/blob/main/evelynB.jpg "Evelyn junto a su invento )
+![alt text](https://github.com/angelesrey/superheroinas/blob/main/evelynB.jpg "Evelyn junto a su invento")
