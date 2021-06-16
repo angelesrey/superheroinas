@@ -1,5 +1,4 @@
 # Ángela Ruiz Robles. 
->[alt text] (https://www.cientificascasio.com/angela-ruiz-robles Más en Cientificascasio.com)
 
 ###Profesiones:
 1.Maestra
