@@ -1,6 +1,7 @@
 # Margaret Hamilton :rocket:
 Nació en Paoli, Indiana el 17 de agosto de 1937.
-**Estudios:**
+
+###**Estudios:**
 1. Estudio matematicas con diplomado en Filosofía
 2. Matemáticas abstractas
  
@@ -15,14 +16,13 @@ Nació en Paoli, Indiana el 17 de agosto de 1937.
 2. Recibió la Medalla Presidencial de la Libertad que le fue entregada en el 2006.
 
 
+>Margaret Hamilton fue una auténtica pionera y visionaria de la programación informática, una mujer que ayudó a crear lo que serían las bases de la ingeniería de software y que, probablemente, evitó el desastre durante el aterrizaje del Apolo 11 haciendo posible que el hombre llegara a la Luna. (_Sara Ortega de la Villa_)
 
 
-
-
-
+_____
 
 ### Link
 [Ver Biografía](https://eldiariofeminista.info/2020/08/21/margaret-hamilton-la-primera-ingeniera-de-software-de-la-nasa-que-hizo-posible-la-llegada-del-hombre-a-la-luna/)
 
 ### Imagen de Margaret Hamilton
-![alt text](https://github.com/angelesrey/superHeroinas/blob/main/margaretH.gif "Margaret Hamilton con su codigo")
+![alt text](https://github.com/angelesrey/superHeroinas/blob/main/margaretH.jpg "Margaret Hamilton con su codigo")

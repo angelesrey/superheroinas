@@ -17,6 +17,7 @@ En  1950 se enteró que la _National Advistor Committee for Aeronautict_ (NACA),
 
 Fue hasta 1953, que fue contratada como experta en matemáticas y geometría, su trabajo constistió en realizar las operaciones y comprobaciones de calculo que requerian los ingenieros aeronáuticos.
 Aunque era un trabajo silencioso, Katherine empezó a preguntar ya discutir con los ingenieros, después de mucho intentarlo logro entrar a las reuniones, con el tiempo fueron evidentes sus capacidades de liderazgo y con ello fue ganando el reconocimiento de sus colegas y la convirtieron en una referente de la NACA y posteriormente de la NASA.
+___
 
 ###Cita
 >"Me gusta aprender. Eso es un arte y una ciencia".- _Katherine Johnson._
