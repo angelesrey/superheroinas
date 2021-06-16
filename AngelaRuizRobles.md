@@ -26,6 +26,5 @@ Para facilitar el aprendizaje creo la Enciclopedia mecánica en 1949 llamada tam
 
 ___
 
-
 ###Imagen
-[alt text](https://github.com/angelesrey/angelesrey.github.io/blob/main/EDC/superHeroinas/Superheroinas/angelaR.jpg "Angela Ruiz junto a la enciclopedia mecánica")
+[alt text](https://github.com/angelesrey/superheroinas/blob/main/angelaR.jpg "Angela Ruiz junto a la enciclopedia mecánica")
