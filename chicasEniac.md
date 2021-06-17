@@ -1,6 +1,6 @@
 # **Las chicas geniales del ENIAC**
 
-La tarea de programar el **ENIAC** (_Electronic Numerical Integrator And Computer_) fue asignada a seis mujeres expertas computers de la Moore School. Debido al carácter secreto de los cálculos, primero describían las instrucciones para resolver un determinado problema sobre los planos de la máquina, y después accedían a la sala donde estaba instalado el ENIAC para configurarlo. Esta tarea podía requerir días, pero una vez realizada, los cálculos para describir una trayectoria tardaban tan sólo diez segundos.
+La tarea de programar el **ENIAC** (_Electronic Numerical Integrator And Computer_) fue asignada a seis mujeres expertas computers de la _Moore School._ Debido al carácter secreto de los cálculos, primero describían las instrucciones para resolver un determinado problema sobre los planos de la máquina, y después accedían a la sala donde estaba instalado el ENIAC para configurarlo. **Esta tarea podía _requerir días_**, pero una vez realizada, los cálculos para describir una trayectoria tardaban tan sólo diez segundos.
 
 Las chicas del ENIAC desarrollaron las bases de la programación de los ordenadores: crearon la primera biblioteca de rutinas y las primeras aplicaciones de software. En 1997 fueron incluidas en el Women in Technology International Hall of Fame.
 
