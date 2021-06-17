@@ -1,12 +1,12 @@
 # Ángela Ruiz Robles. 
 
-###Profesiones:
+### Profesiones:
 1.Maestra
 2.Pedagoga
 3.Inventora.
 
 
-###Nació en Villamanín (León) daba clases de:
+### Nació en Villamanín (León) daba clases de:
 -Taquigrafía
 -Mecanografía
 -Contabilidad mercantil.
@@ -20,11 +20,11 @@ Inventó la máquina de escribir, antes de desarrollar la primera _enciclopedia 
 
 Para facilitar el aprendizaje creo la Enciclopedia mecánica en 1949 llamada también *la primer tablet de la historia*, aligerando el peso de los libros a los alumnos. 
 
-###LINK
+### LINK
 [Ver Biografía Casio.com] (https://www.cientificascasio.com/angela-ruiz-robles)
 
 
 ___
 
-###Imagen
+### Imagen
 ![alt text](https://github.com/angelesrey/superheroinas/blob/main/angelaR.jpg "Angela Ruiz junto a la enciclopedia mecánica")
