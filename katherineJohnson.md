@@ -3,9 +3,9 @@ Profesiones:
 1. Matemática
 2. Física
 3. Docente de: :page_with_curl:
-   - matemáticas
-   - música 
-   - fránces
++ matemáticas
++ música 
++ fránces
 
 Nacida en White Sulphur Springs, Virginia Occidental. Demostró talento para las matematicas desde pequeña. Por desgracia las leyes de la epoca con segregación racial hacian que una afroamericana no pudiera estudiar más del octavo curso del condado natal. Sua padres decididos a que ella y sus hermanos tuvieras una buena educación decidieron mudarse a Institute, donde estaba el West Colored Institute para afroamericanos.
 
@@ -19,13 +19,13 @@ Fue hasta 1953, que fue contratada como experta en matemáticas y geometría, su
 Aunque era un trabajo silencioso, Katherine empezó a preguntar ya discutir con los ingenieros, después de mucho intentarlo logro entrar a las reuniones, con el tiempo fueron evidentes sus capacidades de liderazgo y con ello fue ganando el reconocimiento de sus colegas y la convirtieron en una referente de la NACA y posteriormente de la NASA.
 ___
 
-###Cita
+### Cita
 >"Me gusta aprender. Eso es un arte y una ciencia".- _Katherine Johnson._
 
 Fuente: https://quote-citation.com/es/topic/citas-de-katherine-johnson
 
-###LINK
+### LINK
 [Ver video](https://www.youtube.com/watch?v=mOGbxWTKtoQ)
 
-###Imagen
+### Imagen
 ![alt text](https://github.com/angelesrey/superheroinas/blob/main/katherineJ.jpg "Katherine sentada junto a su escritorio")
