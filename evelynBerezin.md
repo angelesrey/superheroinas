@@ -1,7 +1,7 @@
 # Evelyn Berezin
 Nacida en Bronx Nueva York el 12 de Abril  1925.
 
-Ocupaciones:
+### Ocupaciones:
 1. Ingeniera informática
 2. Fisíca y matematica
 3. Ciencias empresariales 
@@ -10,7 +10,7 @@ Ocupaciones:
 
 Diseño uno de los primeros procesadores de texto, además de desarrollar la idea de un programa que le permitiese almacenar y editar textos.
 
-###Aportaciones
+### Aportaciones
 - Pionera informática, creo un procesador de texto que simplificaría el trabajo de oficina, creando el primer ordenador de oficina
 - Creo un sistema computarizado de reservas de billetes para United Airlines.
 - Creo su empresa Redactron Corporation.
@@ -27,8 +27,8 @@ Diseño uno de los primeros procesadores de texto, además de desarrollar la ide
 |ordenadores                     |    |
 |________________________________|____|
 
-####Link
+#### Link
 [Ver video](https://www.youtube.com/watch?v=zuHRc0JKaC4)
 
-###Imagen
+### Imagen
 ![alt text](https://github.com/angelesrey/superheroinas/blob/main/evelynB.jpg "Evelyn junto a su invento")
