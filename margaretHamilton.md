@@ -1,7 +1,7 @@
 # Margaret Hamilton :rocket:
 Nació en Paoli, Indiana el 17 de agosto de 1937.
 
-###**Estudios:**
+### Estudios:
 1. Estudio matematicas con diplomado en Filosofía
 2. Matemáticas abstractas
  
@@ -11,12 +11,12 @@ Nació en Paoli, Indiana el 17 de agosto de 1937.
  - Gracias a su gran trabajo evito un fracaso del Apolo 11, minutos antes de que se produjera el alunizaje hubo un fallo pero gracias al software estaba diseñado para recuperar errores y priorizar funciones, asi evitó una sobrecarga en el sistema.
  - Creo su empresa _Hamilton Technologies_
 
-####**Premios y reconocimientos**
+#### Premios y reconocimientos
 1. Exceptional Space Act Award otorgado por la NASA en el 2003 
 2. Recibió la Medalla Presidencial de la Libertad que le fue entregada en el 2006.
 
 
->Margaret Hamilton fue una auténtica pionera y visionaria de la programación informática, una mujer que ayudó a crear lo que serían las bases de la ingeniería de software y que, probablemente, evitó el desastre durante el aterrizaje del Apolo 11 haciendo posible que el hombre llegara a la Luna. (_Sara Ortega de la Villa_)
+> Margaret Hamilton fue una auténtica pionera y visionaria de la programación informática, una mujer que ayudó a crear lo que serían las bases de la ingeniería de software y que, probablemente, evitó el desastre durante el aterrizaje del Apolo 11 haciendo posible que el hombre llegara a la Luna. (_Sara Ortega de la Villa_)
 
 
 _____
