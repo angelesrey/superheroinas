@@ -18,3 +18,8 @@ Las chicas del ENIAC desarrollaron las bases de la programación de los ordenado
 
 - **Marlyn Wescoff Meltzer** (1922-2008)​ renunció a su puesto antes del traslado del ENIAC a Aberdeen para contraer matrimonio.
 
+## Link 
+[Ver video](https://www.youtube.com/watch?v=5KqFC3QrS_Y)
+
+### Imagen
+[ver](https://github.com/angelesrey/superHeroinas/blob/main/chicasEniac.jpg "Chicas Eniac programadoras")
